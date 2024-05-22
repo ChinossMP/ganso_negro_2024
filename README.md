@@ -1,4 +1,4 @@
-# Proyecti El Ganso Negro
+# Proyecto El Ganso Negro
 
 ***Por Jorge Monroy Peña
 
